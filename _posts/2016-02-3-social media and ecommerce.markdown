@@ -3,7 +3,7 @@ layout:     post
 title:      "Social media pumps revenue into eCommerce"
 subtitle:   "Social media contributes more to eCommerce than you think"
 date:       2016-02-3 10:00:00
-author:     "Cocktail Insights"
+author:     "Ben Kissi"
 header-img: "img/social1.jpg"
 ---
 
