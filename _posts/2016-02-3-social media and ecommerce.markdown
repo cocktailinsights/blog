@@ -5,6 +5,7 @@ subtitle:   "Social media contributes more to eCommerce than you think"
 date:       2016-02-3 10:00:00
 author:     "Ben Kissi"
 header-img: "img/social1.jpg"
+disqus: true
 ---
 
 <p>Research has shown that over 60% of customers make product research online before making a purchase decision. This fact is very important to note since the growth of any eCommerce business is driven by one fundamental thing "traffic". In the world of eCommerce it is true to keep an eye on metrics such as conversion rate etc, but in order to start measuring all those metrics you need to pour in the traffic.</p>
