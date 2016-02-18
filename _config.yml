@@ -4,7 +4,7 @@ header-img: img/dashboard1.jpg
 email: your-email@yourdomain.com
 copyright_name: Cocktail Insights
 description: "Helping eCommerce businesses maximise social media ROI"
-baseurl: "https://Cocktailinsights.github.io/blog/"
+baseurl: "http://Cocktailinsights.github.io/blog/"
 url: ""
 twitter_username: SBootstrap
 github_username:  davidtmiller
