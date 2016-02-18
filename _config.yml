@@ -6,10 +6,16 @@ copyright_name: Cocktail Insights
 description: "Helping eCommerce businesses maximise social media ROI"
 baseurl: "http://blog.cocktailinsights.com"
 url: ""
-twitter_username: SBootstrap
+twitter_username: cocktailinsights
 github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+facebook_username:  cocktailinsights
 email_username:  team@Cocktailinsights.com
+
+#Analytics
+analytics :
+  provider : google
+  google : 
+    tracking_id : 'UA-73940435-1'
 
 # Build settings
 markdown: kramdown
