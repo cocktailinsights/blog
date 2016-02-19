@@ -34,7 +34,7 @@ One can say the recent rise of the eCommerce industry can be attributed to the i
 
 <h2 class="section-heading">References</h2>
 
-<a href="http://www.businessinsider.com/social-commerce-2015-report-2015-6">Business insider</a>
+<a href="http://www.businessinsider.com/social-commerce-2015-report-2015-6">Business Insider</a>
 <a href="http://www.vemployee.com/staging_old/blog/e-commerce-statistics-that-will-blow-your-mind/">v-employee</a>
 <a href="http://www.trueship.com/blog/2015/01/06/powerful-social-media-ecommerce-statistics-that-will-make-you-rethink-e-retailing-altogether/">Trueship</a>
 <a href="https://www.shopify.com/infographics/social-commerce">Shopify</a>
