@@ -16,7 +16,7 @@ disqus: true
 
 <p>In the first quarters of 2014 - 2015, social media bumped up its share of eCommerce referrals to 200%. The dominating social commerce power house, Facebook, continues to show impressive social commerce statistics. Facebook accounts for over 50% of social referrals and 65% of social revenue. Pinterest is also a major social commerce contributor. It generated 16% of social revenue despite an audience of 6.5 times smaller than twitter</p>
 
-<p>To better understand how social media is contributing to the eCommerce industry, Shopify analysed 37 million social visits that led to 529,000 orders. Facebook dominated as a source of traffic and sales with an average of 85% of orders on Shopify coming from Facebook withng the social category</p>
+<p>To better understand how social media is contributing to the eCommerce industry, Shopify analysed 37 million social visits that led to 529,000 orders. Within the social category, Facebook dominated as a source of traffic and sales with an average of 85% of orders on Shopify coming from Facebook.</p>
 <a target="blank" href="https://www.shopify.com/infographics/social-commerce">
     <img src="{{ site.baseurl }}/img/social.png" alt="Post Sample Image">
 </a>
