@@ -4,7 +4,7 @@ title:      "Growing our betalist with BetaList"
 subtitle:   "How BetaList made it easy for us to get beta users"
 date:       2016-04-8 10:00:00
 author:     "Ben Kissi"
-header-img: "img/social1.jpg"
+header-img: "img/beta.jpg"
 disqus: true
 ---
 
