@@ -14,10 +14,6 @@
   font-size: 12px;
 }
 
-#mc_embed_signup .button{
-
-}
-
 #mc_embed_signup #mce-success-response{
   font-weight: 100 !important;
   font-size: 15px;
@@ -29,4 +25,5 @@
 
 .blog-subscribe{
   background-color: #f3f3f3;
+  margin-top: 10px;
 }
