@@ -5,3 +5,28 @@
   padding-top: 10px;
   padding-bottom: 10px;
 }
+
+#mc_embed_signup h3,label{
+  font-weight: 200;
+}
+#mc_embed_signup label{
+  font-weight: 200;
+  font-size: 12px;
+}
+
+#mc_embed_signup .button{
+
+}
+
+#mc_embed_signup #mce-success-response{
+  font-weight: 100 !important;
+  font-size: 15px;
+}
+
+.disqus{
+  margin-top: 20px;
+}
+
+.blog-subscribe{
+  background-color: #f3f3f3;
+}

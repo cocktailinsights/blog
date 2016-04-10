@@ -273,7 +273,7 @@ hr.small {
 }
 .post-preview > a > .post-subtitle {
   margin: 0;
-  font-weight: 300;
+  font-weight:  100 !important;
   margin-bottom: 10px;
 }
 .post-preview > .post-meta {
