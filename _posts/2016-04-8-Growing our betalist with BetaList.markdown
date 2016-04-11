@@ -29,10 +29,11 @@ My team and I, three young entrepreneurs from the Meltwater Entrepreneurial Scho
 </p>
 
 <p>Wait…there was one more thing to do. Our MVP was ready, and the next thing to do was to acquire beta testers. We created a landing page and used social media to market it organically.  We also researched on platforms we could leverage on to build our email list; we found <a target="blank" href="http://betalist.com/">BetaList</a>. We did not want to spend money on something that did not work, so we decided to use the free listings of BetaList just to test it and measure its impact. Cocktail Insights was <a target="blank" href="http://betalist.com/startups/cocktail-insights">publish</a> on BetaList on 26th March, 2016. Within 3 days we had 175 unique sessions from Betalist and 83 sign ups, that is a conversion rate of 47%.  That is impressive for a free listing. Our email list is still growing and we are preparing to launch our beta in April, 2016.
-</p>
 <a target="blank" href="http://betalist.com/startups/cocktail-insights">
     <img src="{{ site.baseurl }}/img/betalist.png" alt="Post Sample Image">
 </a>
+</p>
+
 
 <p>We know there will always be challenges and we would just have to find a way through it all. This time, the solution to our problem was BetaList, tomorrow it would be something else. After all, “when there is a will, there is a way”. We do not know what lies ahead, but you can only know what the future holds if you march bravely into it. Join us, as we sail into the future, a lot of Cocktail Insights would be served.</p>
 
