@@ -24,12 +24,12 @@ description: "Measuring social media ROI and analytics shouldn't be difficult, b
 <ul class="pager">
     {% if paginator.previous_page %}
     <li class="previous">
-        <a href="{{ paginator.previous_page_path}}" class="previous">&larr; Newer Posts</a>
+        <a href="/page{{ paginator.previous_page}}" class="previous">&larr; Newer Posts</a>
     </li>
     {% endif %}
     {% if paginator.next_page %}
     <li class="next">
-        <a href="{{ paginator.next_page_path}}" class="next">Older Posts &rarr;</a>
+        <a href="/page{{ paginator.next_page}}" class="next">Older Posts &rarr;</a>
     </li>
     {% endif %}
 </ul>
