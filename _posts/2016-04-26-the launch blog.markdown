@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "The Beta Launch of Cocktail Insights"
-subtitle:   "A Simple Introduction and Walkthrough of Cocktail Insights"
+title:      "The Beta Launch of CockTail Insights"
+subtitle:   "A Simple Introduction and Walkthrough of CockTail Insights"
 date:       2016-04-26 09:00:00
 author:     "Panin Osei Tenkorang"
 header-img: "img/beta_rocket_launch.jpg"
@@ -9,7 +9,7 @@ disqus: true
 ---
 
 <p>
-	With the rapid adoption of social media marketing by many firms and entrepreneurs for brand awareness and promotion of sales during the 21st century, it came as much of a surprise upon the realization of the lack of accurate and affordable analytical solutions for businesses like ecommerce to track their social media marketing efforts all the way down to a purchase action. The absence of the ability to enable ecommerce business owners to directly link activities on social media to the activities on their web application or site gave rise to the application <a target="blank" href="http://cocktailinsights.com/">Cocktail Insights</a>. 
+	With the rapid adoption of social media marketing by many firms and entrepreneurs for brand awareness and promotion of sales during the 21st century, it came as much of a surprise upon the realization of the lack of accurate and affordable analytical solutions for businesses like ecommerce to track their social media marketing efforts all the way down to a purchase action. The absence of the ability to enable ecommerce business owners to directly link activities on social media to the activities on their web application or site gave rise to the application <a target="blank" href="http://cocktailinsights.com/">CockTail Insights</a>. 
 </p>
 
 <p>
@@ -29,7 +29,7 @@ disqus: true
 </p>
 
 <p><h3>
-	The images below provide a complete walkthrough of how <a target="blank" href="http://cocktailinsights.com/">Cocktail Insights</a> works: </h3>
+	The images below provide a complete walkthrough of how <a target="blank" href="http://cocktailinsights.com/">CockTail Insights</a> works: </h3>
 </p>
 
 <a target="blank" href="http://cocktailinsights.com/">
@@ -45,7 +45,7 @@ disqus: true
 </a>
 
 <p>
-	There is the need to integrate your social media pages as highlighted above. This allows you to post to either facebook or twitter from Cocktail Insights. Also, you are provided with in-depth analysis about the reach, demography and interests of your fans.
+	There is the need to integrate your social media pages as highlighted above. This allows you to post to either facebook or twitter from cocktail insights. Also, you are provided with in-depth analysis about the reach, demography and interests of your fans.
 </p>
 
 <a target="blank" href="http://cocktailinsights.com/">
@@ -69,7 +69,7 @@ disqus: true
 </p>
 
 <p>
-	<h4>After integrating all these services you can now plunge into the full functionality of Cocktail Insights.</h4>
+	<h4>After integrating all these services you can now plunge into the full functionality of cockTail insights.</h4>
 </p>
 
 <a target="blank" href="http://cocktailinsights.com/">
@@ -150,7 +150,7 @@ disqus: true
 </ol>
 
 <p>
-	<em>As part of the features offered by Cocktail Insights is the ability to gain extensive insights on all posts published from the service. Merchants are provided with insights such as demography, location, devices and others. The images below are previews of how your information will be displayed to you.</em>
+	<em>As part of the features offered by CockTail Insights is the ability to gain extensive insights on all posts published from the service. Merchants are provided with insights such as demography, location, devices and others. The images below are previews of how your information will be displayed to you.</em>
 </p>
 
 <a target="blank" href="http://cocktailinsights.com/">
