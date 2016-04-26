@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "The Beta Launch of CockTail Insights"
+title:      "The Beta Launch of Cocktail Insights"
 subtitle:   "A Simple Introduction and Walkthrough of CockTail Insights"
 date:       2016-04-26 09:00:00
 author:     "Panin Osei Tenkorang"
@@ -9,7 +9,7 @@ disqus: true
 ---
 
 <p>
-	With the rapid adoption of social media marketing by many firms and entrepreneurs for brand awareness and promotion of sales during the 21st century, it came as much of a surprise upon the realization of the lack of accurate and affordable analytical solutions for businesses like ecommerce to track their social media marketing efforts all the way down to a purchase action. The absence of the ability to enable ecommerce business owners to directly link activities on social media to the activities on their web application or site gave rise to the application <a target="blank" href="http://cocktailinsights.com/">CockTail Insights</a>. 
+	With the rapid adoption of social media marketing by many firms and entrepreneurs for brand awareness and promotion of sales during the 21st century, it came as much of a surprise upon the realization of the lack of accurate and affordable analytical solutions for businesses like eCommerce to track their social media marketing efforts all the way down to a purchase action. The absence of the ability to enable eCommerce business owners to directly link activities on social media to the activities on their web application or site gave rise to the application <a target="blank" href="http://cocktailinsights.com/">Cocktail Insights</a>. 
 </p>
 
 <p>
@@ -17,11 +17,11 @@ disqus: true
 </p>
 
 <p>
-	Making it almost impossible for ecommerce businesses to actually make cost-effective marketing decisions with the absence of information like the platform which contributed the most click through to the web site or application, the platform which provided the most engagement amongst fans and what content they interacted most with, the exact demographic properties of fans that engage with postings and those that actually follow through to make a purchase and finally the exact revenue contribution of the campaigns run on the  various social media platforms.
+	Making it almost impossible for eCommerce businesses to actually make cost-effective marketing decisions with the absence of information like the platform which contributed the most click through to the web site or application, the platform which provided the most engagement amongst fans and what content they interacted most with, the exact demographic properties of fans that engage with postings and those that actually follow through to make a purchase and finally the exact revenue contribution of the campaigns run on the  various social media platforms.
 </p>
 
 <p>
-	CockTail Insights as a tool ensures ecommerce merchants are responsible for deriving the expected results, objectives and missions of their social media marketing efforts by embarking on data-backed decision-making. Cocktail insights provides all this information using data points from both the social media analytical platform and google analytics. Through the integration users can easily track the true impact of their social media marketing toils. For maximum reporting users will have to ensure their google analytics account is well setup. This includes ensuring that age and geographical data is enabled, funnels are well setup and clearly defined goals have been established.
+	Cocktail Insights as a tool ensures eCommerce merchants are responsible for deriving the expected results, objectives and missions of their social media marketing efforts by embarking on data-backed decision-making. Cocktail insights provides all this information using data points from both the social media analytical platform and google analytics. Through the integration users can easily track the true impact of their social media marketing toils. For maximum reporting users will have to ensure their google analytics account is well setup. This includes ensuring that age and geographical data is enabled, funnels are well setup and clearly defined goals have been established.
 </p>
 
 <p>
@@ -29,7 +29,7 @@ disqus: true
 </p>
 
 <p><h3>
-	The images below provide a complete walkthrough of how <a target="blank" href="http://cocktailinsights.com/">CockTail Insights</a> works: </h3>
+	The images below provide a complete walkthrough of how <a target="blank" href="http://cocktailinsights.com/">Cocktail Insights</a> works: </h3>
 </p>
 
 <a target="blank" href="http://cocktailinsights.com/">
@@ -69,7 +69,7 @@ disqus: true
 </p>
 
 <p>
-	<h4>After integrating all these services you can now plunge into the full functionality of cockTail insights.</h4>
+	<h4>After integrating all these services you can now plunge into the full functionality of cocktail insights.</h4>
 </p>
 
 <a target="blank" href="http://cocktailinsights.com/">
@@ -150,7 +150,7 @@ disqus: true
 </ol>
 
 <p>
-	<em>As part of the features offered by CockTail Insights is the ability to gain extensive insights on all posts published from the service. Merchants are provided with insights such as demography, location, devices and others. The images below are previews of how your information will be displayed to you.</em>
+	<em>As part of the features offered by Cocktail Insights is the ability to gain extensive insights on all posts published from the service. Merchants are provided with insights such as demography, location, devices and others. The images below are previews of how your information will be displayed to you.</em>
 </p>
 
 <a target="blank" href="http://cocktailinsights.com/">
