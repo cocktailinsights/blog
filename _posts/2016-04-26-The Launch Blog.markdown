@@ -2,8 +2,8 @@
 layout:     post
 title:      "The Beta Launch of CockTail Insights"
 subtitle:   "A Simple Introduction and Walkthrough of CockTail Insights"
-date:       2016-04-9 09:00:00
-author:     "Panin Osei"
+date:       2016-04-26 09:00:00
+author:     "Panin Osei Tenkorang"
 header-img: "img/beta_rocket_launch.jpg"
 disqus: true
 ---
